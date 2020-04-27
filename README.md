@@ -2,7 +2,7 @@
 
 Application made with ReactJS and Typescript to search the Github repositories save on localstorage and list their issues.
 
-Link: https://jilvanx.github.io/jilvanx/github-explorer(https://jilvanx.github.io/jilvanx/github-explorer)
+Link: [https://jilvanx.github.io/jilvanx/github-explorer](https://jilvanx.github.io/jilvanx/github-explorer)
 
 ## Install 🚀
 * Clone the project
